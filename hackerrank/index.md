@@ -60,6 +60,7 @@
 ### XML
 ### Closures and Decorators
 ### Numpy
+- [ ] Array
 ### Debugging
 
 ----
