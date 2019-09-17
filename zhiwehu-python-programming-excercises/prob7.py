@@ -21,8 +21,8 @@ rowNumber = dimensions[0]
 colNumber = dimensions[1]
 
 
-for row in range(rowNumber):
-    for col in range(colNumber):
-        matrix[row][col] = row * col
+# for row in range(rowNumber):
+#     for col in range(colNumber):
+#         matrix[row][col] = row * col
 
-print(multilist)
+# print(multilist)
