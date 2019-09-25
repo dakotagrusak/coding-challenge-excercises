@@ -3,6 +3,3 @@
 SELECT CITY 
 FROM STATION
 WHERE CITY REGEXP '^[aeiou]';
-
-
--- https://www.tutorialspoint.com/mysql/mysql-regexps.htm 
