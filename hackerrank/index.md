@@ -1,4 +1,4 @@
-# HackerRank 
+# HackerRank
 
 ## Python Language Proficiency
 
@@ -26,7 +26,7 @@
 - [x] String Split and Join
 - [x] What's Your Name
 - [x] Mutations
-- [ ] Find a String
+- [x] Find a String
 - [ ] String Validators
 - [ ] Text Alignment
 - [ ] Text Wrap
@@ -80,6 +80,3 @@
 - [ ] Array
 
 ### Debugging
-
-----
-
